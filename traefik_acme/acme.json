@@ -1,12 +1,12 @@
 {
   "lets-encrypt": {
     "Account": {
-      "Email": "paranjay.logicwind@gmail.com",
+      "Email": "paranjay..com",
       "Registration": {
         "body": {
           "status": "valid",
           "contact": [
-            "mailto:paranjay.logicwind@gmail.com"
+            "mailto:paranja@gmail.com"
           ]
         },
         "uri": "https://acme-v02.api.letsencrypt.org/acme/acct/986342416"

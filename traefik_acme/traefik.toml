@@ -33,7 +33,7 @@ filePath = "/dev/stdout"
     address = ":443"
 
 [certificatesResolvers.lets-encrypt.acme]
-email = "paranjay.logicwind@gmail.com"
+email = "paranjay@gmail.com"
 storage = "acme.json"
 [certificatesResolvers.lets-encrypt.acme.httpChallenge]
 entryPoint = "web"
